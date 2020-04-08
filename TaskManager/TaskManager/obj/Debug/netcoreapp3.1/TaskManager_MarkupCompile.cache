@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-E:\C_Sharp_Lab_5_Boiko\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\
+E:\C_Sharp_Boiko_5\TaskManager\TaskManager\obj\Debug\netcoreapp3.1\
 TaskManager
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-E:\C_Sharp_Lab_5_Boiko\TaskManager\TaskManager\App.xaml
-3-119501985
+E:\C_Sharp_Boiko_5\TaskManager\TaskManager\App.xaml
+3-1182110726
 
-141892970800
-193-947887277
+14-1699832407
+193-258108704
 MainWindow.xaml;Windows\ShowModulesWindow.xaml;Windows\ShowThreadsWindow.xaml;
 
 False

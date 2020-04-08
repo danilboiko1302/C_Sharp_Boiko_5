@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TaskManager.-563194818.00" t="ExcludeRecursive" />
-    <e p="E:\C_Sharp_Lab_5_Boiko\TaskManager" t="IncludeFlat">
+    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TaskManager.351919024.00" t="ExcludeRecursive" />
+    <e p="E:\C_Sharp_Boiko_5\TaskManager" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="TaskManager" t="IncludeRecursive">
         <e p="App.xaml" t="Include" />

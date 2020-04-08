@@ -18,17 +18,15 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Menu Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3">
-            
-                <MenuItem Header="IDs" Command="{Binding SortById}"></MenuItem>
-                <MenuItem Header="Process names" Command="{Binding SortByName}"></MenuItem>
-                <MenuItem Header="IsActive" Command="{Binding SortByIsActive}"></MenuItem>
-                <MenuItem Header="% of CPU" Command="{Binding SortByCPUPercents}"></MenuItem>
-                <MenuItem Header="memory amount" Command="{Binding SortByRAMAmount}"></MenuItem>
-                <MenuItem Header="Threads" Command="{Binding SortByThreadsNumber}"></MenuItem>
-                <MenuItem Header="User" Command="{Binding SortByUser}"></MenuItem>
-                <MenuItem Header="Path to file" Command="{Binding SortByFilepath}"></MenuItem>
-                <MenuItem Header="Starting time" Command="{Binding SortByStartingTime}"></MenuItem>
-            
+            <MenuItem Header="IDs" Command="{Binding SortById}"></MenuItem>
+            <MenuItem Header="Process names" Command="{Binding SortByName}"></MenuItem>
+            <MenuItem Header="IsActive" Command="{Binding SortByIsActive}"></MenuItem>
+            <MenuItem Header="% of CPU" Command="{Binding SortByCPUPercents}"></MenuItem>
+            <MenuItem Header="memory amount" Command="{Binding SortByRAMAmount}"></MenuItem>
+            <MenuItem Header="Threads" Command="{Binding SortByThreadsNumber}"></MenuItem>
+            <MenuItem Header="User" Command="{Binding SortByUser}"></MenuItem>
+            <MenuItem Header="Path to file" Command="{Binding SortByFilepath}"></MenuItem>
+            <MenuItem Header="Starting time" Command="{Binding SortByStartingTime}"></MenuItem>
         </Menu>
         <DataGrid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" 
                   ItemsSource="{Binding Processes, Mode=OneWay,UpdateSourceTrigger=PropertyChanged}" 

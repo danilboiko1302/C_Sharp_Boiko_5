@@ -12,23 +12,24 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TaskManager/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/Windows/ShowThreadsWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/ViewModels/ShowThreadsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/ViewModels/ProcessListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/ViewModels/ShowModulesViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TaskManager/Windows/ShowThreadsWindow.xaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TaskManager/Windows/ShowModulesWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/ViewModels/ShowThreadsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/ViewModels/ShowModulesViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/ViewModels/ProcessListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/Windows/ShowThreadsWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TaskManager/Windows/ShowModulesWindow.xaml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/Models/SingleProcess.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/Models/SingleThread.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TaskManager/Models/SingleModule.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/Tools/StationManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/Tools/BaseViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/Models/SingleThread.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/Models/SingleProcess.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TaskManager/Tools/RelayCommand.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TaskManager/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/Tools/BaseViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/Tools/StationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3877DF6E-A60B-4F24-9F2E-EAEC63828F59/12/PerformanceCounter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TaskManager/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskManager/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -41,9 +42,10 @@
         <option value="$PROJECT_DIR$/TaskManager/MainWindow.xaml.cs" />
         <option value="$PROJECT_DIR$/TaskManager/App.xaml.cs" />
         <option value="$PROJECT_DIR$/TaskManager/Models/SingleModule.cs" />
-        <option value="$PROJECT_DIR$/TaskManager/Models/SingleProcess.cs" />
         <option value="$PROJECT_DIR$/TaskManager/ViewModels/ProcessListViewModel.cs" />
         <option value="$PROJECT_DIR$/TaskManager/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/TaskManager/MainWindows.xaml.cs" />
+        <option value="$PROJECT_DIR$/TaskManager/Models/SingleProcess.cs" />
       </list>
     </option>
   </component>
@@ -92,6 +94,7 @@
       <updated>1586077605950</updated>
       <workItem from="1586077607305" duration="300000" />
       <workItem from="1586343518121" duration="1635000" />
+      <workItem from="1586345689554" duration="514000" />
     </task>
     <servers />
   </component>
@@ -114,22 +117,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1586345129362">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1586346251778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586345129362" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1586345129362">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586346251778" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1586346251777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586345129362" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1586345129361">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586346251777" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1586346251777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586345129361" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1586345129362">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586346251777" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1586346251778">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586345129362" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586346251778" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586343988246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

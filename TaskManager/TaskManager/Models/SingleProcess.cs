@@ -148,7 +148,7 @@ namespace TaskManager.Models
         internal SingleProcess(Process process)
         {
             _process = process;
-            perfCounter = new PerformanceCounter("Process", "% Processor Time", "chrome");
+            perfCounter = new PerformanceCounter("Process", "% Processor Time", "Explorer");
             perfCounter.NextValue();
         }
     }
