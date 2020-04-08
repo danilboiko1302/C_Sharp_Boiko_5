@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TaskManager.-563194818.00" t="ExcludeRecursive" />
+    <e p="E:\C_Sharp_Lab_5_Boiko\TaskManager" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TaskManager" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="SingleModule.cs" t="Include" />
+          <e p="SingleProcess.cs" t="Include" />
+          <e p="SingleThread.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+              <e p="TaskManager.AssemblyInfo.cs" t="Include" />
+              <e p="Windows" t="Include">
+                <e p="ShowModulesWindow.g.cs" t="Include" />
+                <e p="ShowThreadsWindow.g.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="TaskManager.csproj" t="IncludeRecursive" />
+        <e p="Tools" t="Include">
+          <e p="BaseViewModel.cs" t="Include" />
+          <e p="RelayCommand.cs" t="Include" />
+          <e p="StationManager.cs" t="Include" />
+        </e>
+        <e p="ViewModels" t="Include">
+          <e p="ProcessListViewModel.cs" t="Include" />
+          <e p="ShowModulesViewModel.cs" t="Include" />
+          <e p="ShowThreadsViewModel.cs" t="Include" />
+        </e>
+        <e p="Windows" t="Include">
+          <e p="ShowModulesWindow.xaml" t="Include" />
+          <e p="ShowModulesWindow.xaml.cs" t="Include" />
+          <e p="ShowThreadsWindow.xaml" t="Include" />
+          <e p="ShowThreadsWindow.xaml.cs" t="Include" />
+        </e>
+      </e>
+      <e p="TaskManager.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

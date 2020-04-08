@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TaskManager/1.0.0": {
+        "dependencies": {
+          "JetBrains.Annotations": "2020.1.0-eap6"
+        },
+        "runtime": {
+          "TaskManager.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2020.1.0-eap6": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2020.1.0.0",
+            "fileVersion": "2020.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JetBrains.Annotations/2020.1.0-eap6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U/by0xVCg8KEXwjwjUW59cg19kcVvIkCJ/O77YxGQgSz8d8nLPQBtJS+LCGYplkCckseS7dOTFflBy575djhlw==",
+      "path": "jetbrains.annotations/2020.1.0-eap6",
+      "hashPath": "jetbrains.annotations.2020.1.0-eap6.nupkg.sha512"
+    }
+  }
+}
